@@ -1,10 +1,10 @@
+import React from 'react'
 import './App.css';
-import './TodoCal';
-import TodoCal from './TodoCal';
+import TodoCal from './demo-app';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <TodoCal/>  
     </div>
   );
